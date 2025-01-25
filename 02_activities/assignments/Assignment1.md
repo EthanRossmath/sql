@@ -14,10 +14,10 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-one`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `assignment-one`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
 
@@ -98,6 +98,8 @@ A logical data model must contain:
 - relationship type
 
 Please do not pick the exact same tables that I have already diagrammed. For example, you shouldn't diagram the relationship between `product` and `product_category`, but you could diagram `product` and `customer_purchases`.
+
+<img src="assignment1.drawio.png" width=500>
 
 **HINTS**:
 - You will need to use the Browse Data tab in the main window to figure out the relationship types.
@@ -204,6 +206,10 @@ Link if you encounter a paywall: https://web.archive.org/web/20240422105834/http
 Consider, for example, concepts of fariness, inequality, social structures, marginalization, intersection of technology and society, etc.
 
 
-```
-Your thoughts...
-```
+
+I have taught many courses at the University of Toronto in the Department of Mathematics and so I have had intimate familiarity with the various excel sheets used to record the grades of students. One key underlying assumption in all these gradebooks is that every student one name and it is of the form [Personal Name] + [Family Name] in that order. An assumption which is simply not true for many people from non-Western countries. 
+
+Examples of names which do not match the format expected in a gradebook would be names in the reverse order of Western names; students who only have a Personal name; or, most frustratingly of all, students who have more than one name. Indeed, many Asian students will adopt a Western name in addition to their original name while they study at the University of Toronto. While this is not an issue for most students with two names, some of them will inconsistently use both for academic and administrative purposes. In the presence of student IDs, this is not necessarily system breaking since these allow us to uniquely assign a number to each student. However, some graded works can mistakenly not get a student ID associated to them, leading to truly frustrating nights trying to figure out what mark to assign to a given student. 
+
+My approach to dealing with this has been to attempt to record all the names associated to each student on my gradebooks. I say attempt, because this can be quite difficult to find out without going around to every student and saying “what’s your REAL name?” I don’t think this is particularly culturally sensitive so I generally just accumulate names as I go whenever there is some ambiguity. This of course only (partially) solves the non-uniqueness problem, but does nothing for the opposite order problem. It has been quite rare and I feel like I’m pretty good at knowing the difference between a first name and a last name for the most part. I shudder to think of a day when this becomes an issue.
+
