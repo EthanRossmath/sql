@@ -57,9 +57,9 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
-```
-Your answer...
-```
+The first architecture I propose would be a table with two columns: customer_id, customer_address, where the first would be a unique number assigned to each customer and the second would be their physical address. Perhaps it could be broken up more into street number, city, postal code, etc. In any case, in this architecture, the address itself would be replaced each time the customer informs the store of a new address. This is type 1.
+
+The second architecture would be quite similar customer_id, customer_address, but now with a third column address_date. This third column would now record the date on which the customer informs the store about their address. Each time there is an update, a new row would simply be added with the new address included, but also the day in which the update happened. This table would then keep a history of all previous addresses and could also keep track of when the customer had that address. This is type 2.
 
 ***
 
