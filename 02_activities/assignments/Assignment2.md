@@ -186,6 +186,12 @@ Read: Boykis, V. (2019, October 16). _Neural nets are just people all the way do
 Consider, for example, concepts of labour, bias, LLM proliferation, moderating content, intersection of technology and society, ect. 
 
 
-```
-Your thoughts...
-```
+There are two ethical issues that stood out to me from the linked article: labour and race. First, I will discuss labour.
+
+As the article discussed,  much of our apparently automated world is actually built on a foundation of anonymous human labour and effort, probably for just pennies in comparison to the massive profits being reaped by those exploiting this foundation. The article specifically mentions the fast-fashion industry, but I would also think of the gigantic sums of money going into the current AI bubble and the mass of workers who did the image classification discussed in the article. I have also done some work for the manual-side of AI when I evaluated Chat GPT responses for their accuracy and comprehensiveness. From this perspective I see how much work goes into fact checking a single response, let alone the thousands the company I was working for was evaluating.
+
+The other major issue that stood out to me was that of race. In particular, the fact that much of the classification work of human physical features was apparently quite racist in nature. This to me shows that due to the foundational human element underlying all technology, our biases and hatreds will be reflected in what technology produces. This has deep implications for any potential applications using AI to automate aspects of law enforcement or medicine since the biases of society, like linking some skin tones with criminality or beliefs that women overexagerate illness, will inevitably produce undesirable results. I think we should think very carefully before using this technology in social contexts as the potential to inflame failings of our society is very great. 
+
+This issue of race reminds me of scientific racism and phrenology of the 19th and 20th centuries. This was a "scientific" system that tried to use scientific concepts from taxonomy to classify humans by our skull shapes in analogy with how biologists were building a tree of life by using the skeletons of animals to put them into a relational tree according to similarity. While taxonomy is legitmate (I think, I am not a biologist) it turns out that phrenology is a pseudo science and is about as predictive as astrology: it will say whatever you want it to say. The main point here, is that phrenology simply reflected back all the biases of 19th and 20th century Europeans and provided a tool to justify their conquests and brutal treatment of non-white populations in Africa and Asia. Although not nearly as drastic, I fear modern AI and its inbuilt biases could be used in a similar way. It could potentially provide an inherently flawed and malicious classification system of humans and, unlike phrenology, its systems are built on an incredibly vast and essentially unverifiable foundation of human labour. If these systems get integrated into our society, I fear it would be even more difficult to undo than phrenology was.
+
+
